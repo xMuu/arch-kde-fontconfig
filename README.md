@@ -16,8 +16,8 @@
 3. `sudo ln -s /etc/fonts/conf.avail/64-language-selector-prefer.conf /etc/fonts/conf.d/64-language-selector-prefer.conf`
 4. `sudo fc-cache -fv`
 5. 打开系统设置，找到字体设置，如图设置：
-<br />
+  
 ![Settings_1.png](https://i.loli.net/2019/12/29/QAbaR9W6FsSMYl5.png)
 ![Settings_2.png](https://i.loli.net/2019/12/29/dlvk5GVwTYRxgQu.png)
-
+  
 6. Reboot, enjoy.
